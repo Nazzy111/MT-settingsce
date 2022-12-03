@@ -96,8 +96,8 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("¯_( ͡° ͜ʖ ͡°)_/¯ 𝙊𝙒𝙉𝙀𝙍 ¯_( ͡° ͜ʖ ͡°)_/¯", url="https://t.me/Sanoob_Achu_18")
                 ],
                 [
-                    InlineKeyboardButton("💥 𝙂𝙍𝙊𝙐𝙋", url="https://t.me/CS_Series"),
-                    InlineKeyboardButton("𝘾𝙃𝘼𝙉𝙉𝙀𝙇 💥", url="https://t.me/CSSeriesChannel")
+                    InlineKeyboardButton("🤍 ɢʀᴏᴜᴘ 🤍", url="https://t.me/nazzymovies"),
+                    InlineKeyboardButton("💙 ᴄʜᴀɴɴᴇʟ 💙", url="https://t.me/nazzymovies3")
                 ]
             ]
         )
